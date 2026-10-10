@@ -1,0 +1,6 @@
+{
+  "name": "METAMORPHOSIS - C++ Login & Registration System",
+  "description": "Engineering-level authentication system with a Metamorphosis theme, featuring a C++ backend, file-based persistence, PBKDF2 password hashing, and interactive viva inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
